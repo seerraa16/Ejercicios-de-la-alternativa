@@ -9,5 +9,9 @@ def descuentos():
         abonado = input()
     print("Cuantos microprocesadores quieres comprar?")
     cantidad = int(input())
-    
-
+    if cantidad (10000, 20000):
+        print("Tendra un descuento del 10%")
+    elif cantidad (20001, 40000 ):
+        print("Va a tener un descuento del 15%")
+    elif cantidad > 40000:
+        print("Le harán un descuento del 20%")
