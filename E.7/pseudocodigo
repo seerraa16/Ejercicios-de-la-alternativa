@@ -1,0 +1,10 @@
+ALGORITMO;
+
+Calcular el coste de un viaje
+
+ENTRADA;
+
+Alumnos --> variable
+Dias -->variable
+
+PROCESO; 
