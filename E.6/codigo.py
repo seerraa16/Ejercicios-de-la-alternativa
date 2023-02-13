@@ -1,7 +1,7 @@
 #Ejercicio 6: Descuento en los microprocesadores
 
 def descuentos():
-    print("Descuentos en los microprocesadores")
+    print("A continuacion tendra una calculadora de descuentos en los microprocesadores")
     print("Eres abonado a COMMAQ o a BEL? (S/N)")
     abonado = input()
     if abonado == "S":
@@ -9,3 +9,5 @@ def descuentos():
         abonado = input()
     print("Cuantos microprocesadores quieres comprar?")
     cantidad = int(input())
+    
+
