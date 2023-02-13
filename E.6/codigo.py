@@ -8,9 +8,8 @@ def descuentos():
         print("A cual de los 2? (COMMAQ/BEL)")
         abonado = input()
     print("Cuantos microprocesadores quieres comprar?")
-    cantidad = int(input())
+    cantidad = input(int())
     if cantidad (10000, 20000):
-        descuento1 = 10/100
         if abonado == "COMMAQ":
             descuento2 = 8/100
             print("Va a tener un descuento del 8%")
